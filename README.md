@@ -35,7 +35,7 @@ The data used in this project was obtained from Kaggle, a platform for data scie
 
 The specific dataset used in this project can be found at the following Kaggle URL:
 
-[Link to Kaggle Dataset](https://www.kaggle.com/dataset_name)
+[Link to Kaggle Dataset]([https://www.kaggle.com/dataset_name](https://www.kaggle.com/datasets/venkatasubramanian/credit-eda-case-study))
 
 We would like to express our gratitude to the contributors and data providers on Kaggle for making this dataset available for analysis and research purposes.
 
