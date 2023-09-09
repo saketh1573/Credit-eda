@@ -1,10 +1,33 @@
-# CONCLUSION
+# Credit EDA (Exploratory Data Analysis)
 
-**1. Banks should focus more on contract type ‘Student’ ,’pensioner’ and ‘Businessman’ with housing ‘type other
-     than ‘Co-op apartment’ for successful payments.**
+## Overview
+This project conducts Exploratory Data Analysis (EDA) on a credit dataset. EDA is a crucial step in understanding and analyzing the data before proceeding with more advanced techniques. This project includes data cleaning, visualization, and deriving insights from the dataset.
 
-**2. Banks should focus less on income type ‘Working’ as they are having most number of unsuccessful payments.**
+## Libraries Used
+- pandas
+- numpy
+- matplotlib
+- seaborn
 
-**3. Also with loan purpose ‘Repair’ is having higher number of unsuccessful payments on time.**
+## Data
+- Dataset: "application_data.csv"
+- Loading the dataset: `app_data = pd.read_csv("application_data.csv")`
+- Checking dataset information: `app_data.info()`
 
-**4. Get as much as clients from housing type ‘With parents’ as they are having least number of unsuccessful payments.**
+## Data Cleaning
+- Handling missing values: Removing columns with over 47% missing data and imputing others.
+- Data type adjustments: Converting date-related columns into "YEARS" categories.
+
+## Data Visualization
+- Visualizing credit amount distribution.
+- Categorizing credit amounts.
+- Analyzing age distribution.
+- Extracting demographic insights.
+
+## Insights
+Key insights from the EDA:
+1. The significance of contract types, housing types, and income types in predicting successful payments.
+2. The need to target specific demographic groups for improved risk management.
+
+## Conclusion
+This EDA provides a comprehensive understanding of the credit dataset, serving as a foundation for further analysis and informed decision-making.
