@@ -28,6 +28,17 @@ This project conducts Exploratory Data Analysis (EDA) on a credit dataset. EDA i
 Key insights from the EDA:
 1. The significance of contract types, housing types, and income types in predicting successful payments.
 2. The need to target specific demographic groups for improved risk management.
+`
+## Data Source
+
+The data used in this project was obtained from Kaggle, a platform for data science and machine learning enthusiasts. Kaggle provides a valuable resource for datasets, competitions, and collaborative data science projects.
+
+The specific dataset used in this project can be found at the following Kaggle URL:
+
+[Link to Kaggle Dataset](https://www.kaggle.com/dataset_name)
+
+We would like to express our gratitude to the contributors and data providers on Kaggle for making this dataset available for analysis and research purposes.
+
 
 ## Conclusion
 This EDA provides a comprehensive understanding of the credit dataset, serving as a foundation for further analysis and informed decision-making.
